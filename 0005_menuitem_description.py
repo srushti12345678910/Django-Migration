@@ -8,6 +8,7 @@ class Migration(migrations.Migration):
 
     dependencies = [
         ('restaurant', '0004_rename_menu_menuitem'),
+        
     ]
 
     operations = [
