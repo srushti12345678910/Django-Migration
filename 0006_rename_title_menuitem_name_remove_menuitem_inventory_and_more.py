@@ -10,6 +10,7 @@ class Migration(migrations.Migration):
     dependencies = [
         ('restaurant', '0005_menuitem_description'),
     ]
+    
 
     operations = [
         migrations.RenameField(
